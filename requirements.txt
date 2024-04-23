@@ -1,0 +1,5 @@
+Keras-Applications
+numpy
+keras-models
+Keras-Preprocessing
+google-generativeai
